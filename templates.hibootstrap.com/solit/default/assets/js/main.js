@@ -262,7 +262,7 @@ jQuery(function($) {
     });
 
     // Buy Now Btn
-	$('body').append("<a href='https://themeforest.net/checkout/from_item/28749750?license=regular&support=bundle_6month&_ga=2.135854707.317761313.1648883762-918236941.1644836235' target='_blank' class='buy-now-btn'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>");
+	$('body').append("<a href='https://www.linkedin.com/company/technaija/mycompany/?viewAsMember=true' class='buy-now-btn'> Follow Us </a>");
 
 	// Switch Btn
 	$('body').append("<div class='switch-box'><label id='switch' class='switch'><input type='checkbox' onchange='toggleTheme()' id='slider'><span class='slider round'></span></label></div>");
